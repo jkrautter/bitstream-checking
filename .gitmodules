@@ -1,0 +1,6 @@
+[submodule "icestorm"]
+	path = icestorm
+	url = https://github.com/jkrautter/icestorm.git
+[submodule "yosys"]
+	path = yosys
+	url = https://github.com/jkrautter/yosys.git
